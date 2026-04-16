@@ -1,0 +1,27 @@
+body {
+    background: #eee;
+    font-family: Arial;
+}
+
+.margin {
+    border: 2px dashed gray;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+.border {
+    background: #159a6d;
+    padding: 20px;
+    color: black;
+}
+
+.padding {
+    background: #ddd;
+    padding: 30px;
+}
+
+.content {
+    border: 2px dashed gray;
+    padding: 40px;
+}
